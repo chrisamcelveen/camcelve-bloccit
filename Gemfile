@@ -6,6 +6,8 @@ gem 'rails', '4.1.4'
 
 gem 'bootstrap-sass', '~> 3.1.1'
 
+gem 'faker'
+
 group :production do
  gem 'pg'
  gem 'rails_12factor'
