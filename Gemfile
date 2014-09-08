@@ -8,6 +8,8 @@ gem 'bootstrap-sass', '~> 3.1.1'
 
 gem 'faker'
 
+gem 'devise'
+
 group :production do
  gem 'pg'
  gem 'rails_12factor'
